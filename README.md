@@ -1,1 +1,3 @@
-# mai_highload
+# mai_weather
+
+weather servise
